@@ -1,8 +1,9 @@
 # vue-crm
+> ## Authorization and registration is done with Firebase
 
 ## Project setup
 ```
-npm install
+npm i || npm ci
 ```
 
 ### Compiles and hot-reloads for development
