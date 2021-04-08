@@ -44,6 +44,7 @@
         <button
             class='btn waves-effect waves-light auth-submit'
             type='submit'
+            v-tooltip='"Вход в кабинет"'
         >
           Войти
           <i class='material-icons right'>send</i>
